@@ -78,10 +78,12 @@ nav li a {
     font-size: 35px;
     font-weight: bold;
     color: black;
+
 }
 /* shared style */
 .secondary-bg{
     background-color: #fff8f3;
+    
 }
 .section-description{
     font-size: 18px;
